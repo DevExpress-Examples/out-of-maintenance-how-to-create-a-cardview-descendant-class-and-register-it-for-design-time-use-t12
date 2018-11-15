@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MyCardView/Form1.cs) (VB: [Form1.vb](./VB/MyCardView/Form1.vb))
+* [MyCardHandler.cs](./CS/MyCardView/MyCardHandler.cs) (VB: [MyCardHandler.vb](./VB/MyCardView/MyCardHandler.vb))
+* [MyCardInfoRegistrator.cs](./CS/MyCardView/MyCardInfoRegistrator.cs) (VB: [MyCardInfoRegistrator.vb](./VB/MyCardView/MyCardInfoRegistrator.vb))
+* [MyCardView.cs](./CS/MyCardView/MyCardView.cs) (VB: [MyCardViewInfo.vb](./VB/MyCardView/MyCardViewInfo.vb))
+* [MyCardViewInfo.cs](./CS/MyCardView/MyCardViewInfo.cs) (VB: [MyCardViewInfo.vb](./VB/MyCardView/MyCardViewInfo.vb))
+* [MyGridControl.cs](./CS/MyCardView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyCardView/MyGridControl.vb))
+<!-- default file list end -->
 # How to create a CardView descendant class and register it for design-time use
 
 
